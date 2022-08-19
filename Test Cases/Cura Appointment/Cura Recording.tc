@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cura Recording</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af44dc85-9ca2-42ca-ac51-ce9a78784618</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>4370bce5-f307-4c1b-b9e1-461f4bbc5985</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Cura Test Data Appointment/Test Data Database</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>4370bce5-f307-4c1b-b9e1-461f4bbc5985</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>406905cc-b191-4e42-a002-999ae33e66b8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>4370bce5-f307-4c1b-b9e1-461f4bbc5985</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>6ea7e65d-c9fe-4f76-b490-4d108bca726c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>406905cc-b191-4e42-a002-999ae33e66b8</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6ea7e65d-c9fe-4f76-b490-4d108bca726c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

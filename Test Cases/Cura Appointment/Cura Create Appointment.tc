@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cura Create Appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92c74cd1-16bf-4e65-8620-660c1167c04f</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>25b12c9c-c572-4920-8096-f8f07a2361f2</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Cura Test Data Appointment/Test Data 2</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>25b12c9c-c572-4920-8096-f8f07a2361f2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>tc_type</value>
+      <variableId>63281844-41fe-4b1b-80f1-4f612b267b36</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>25b12c9c-c572-4920-8096-f8f07a2361f2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>45c6c982-6ccd-443a-842e-47f2cecbbed2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>25b12c9c-c572-4920-8096-f8f07a2361f2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>1002072a-ff05-40e4-8e04-730d17203a80</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>63281844-41fe-4b1b-80f1-4f612b267b36</id>
+      <masked>false</masked>
+      <name>tc_type</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>45c6c982-6ccd-443a-842e-47f2cecbbed2</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1002072a-ff05-40e4-8e04-730d17203a80</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

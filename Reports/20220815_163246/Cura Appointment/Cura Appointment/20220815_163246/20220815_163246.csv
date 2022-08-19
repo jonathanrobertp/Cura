@@ -1,0 +1,42 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Cura Appointment,Chrome 104.0.5112.81,,,2022-08-15 16:33:00,2022-08-15 16:33:39,39.796s,PASSED
+,,,,,,,
+Test Cases/Cura Appointment/Cura Create Appointment,Chrome 104.0.5112.81,,,2022-08-15 16:33:01,2022-08-15 16:33:23,21.973s,PASSED
+println(url),Chrome 104.0.5112.81,,,2022-08-15 16:33:03,2022-08-15 16:33:03,0.561s,PASSED
+openBrowser(url),Chrome 104.0.5112.81,,,2022-08-15 16:33:03,2022-08-15 16:33:11,7.599s,PASSED
+maximizeWindow(),Chrome 104.0.5112.81,,,2022-08-15 16:33:11,2022-08-15 16:33:11,0.254s,PASSED
+takeScreenshot(),Chrome 104.0.5112.81,,,2022-08-15 16:33:11,2022-08-15 16:33:12,1.180s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/Button_Make Appointment""))",Chrome 104.0.5112.81,,,2022-08-15 16:33:12,2022-08-15 16:33:14,1.106s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/Input_Username""), username)",Chrome 104.0.5112.81,,,2022-08-15 16:33:14,2022-08-15 16:33:15,0.970s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/Input_Password""), password)",Chrome 104.0.5112.81,,,2022-08-15 16:33:15,2022-08-15 16:33:15,0.846s,PASSED
+takeScreenshot(),Chrome 104.0.5112.81,,,2022-08-15 16:33:15,2022-08-15 16:33:16,0.370s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/button_Login""))",Chrome 104.0.5112.81,,,2022-08-15 16:33:16,2022-08-15 16:33:17,1.089s,PASSED
+takeScreenshot(),Chrome 104.0.5112.81,,,2022-08-15 16:33:17,2022-08-15 16:33:17,0.454s,PASSED
+"selectOptionByValue(findTestObject(""Page_CURA Healthcare Service/Select_Healtcare Center""), HealthCareCenter, false)",Chrome 104.0.5112.81,,,2022-08-15 16:33:17,2022-08-15 16:33:18,0.896s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/Input_Date""), DateAppointment)",Chrome 104.0.5112.81,,,2022-08-15 16:33:18,2022-08-15 16:33:19,0.937s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/Text_Comment""), Comment)",Chrome 104.0.5112.81,,,2022-08-15 16:33:19,2022-08-15 16:33:20,0.812s,PASSED
+takeScreenshot(),Chrome 104.0.5112.81,,,2022-08-15 16:33:20,2022-08-15 16:33:20,0.410s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 104.0.5112.81,,,2022-08-15 16:33:20,2022-08-15 16:33:21,0.846s,PASSED
+"verifyElementVisible(findTestObject(""Page_CURA Healthcare Service/Label_Appointment has been booked""))",Chrome 104.0.5112.81,,,2022-08-15 16:33:21,2022-08-15 16:33:22,0.490s,PASSED
+takeScreenshot(),Chrome 104.0.5112.81,,,2022-08-15 16:33:22,2022-08-15 16:33:22,0.358s,PASSED
+closeBrowser(),Chrome 104.0.5112.81,,,2022-08-15 16:33:22,2022-08-15 16:33:23,1.003s,PASSED
+,,,,,,,
+Test Cases/Cura Appointment/Cura Create Appointment,Chrome 104.0.5112.81,,,2022-08-15 16:33:23,2022-08-15 16:33:39,16.229s,PASSED
+println(url),Chrome 104.0.5112.81,,,2022-08-15 16:33:23,2022-08-15 16:33:23,0.001s,PASSED
+openBrowser(url),Chrome 104.0.5112.81,,,2022-08-15 16:33:23,2022-08-15 16:33:28,4.618s,PASSED
+maximizeWindow(),Chrome 104.0.5112.81,,,2022-08-15 16:33:28,2022-08-15 16:33:28,0.169s,PASSED
+takeScreenshot(),Chrome 104.0.5112.81,,,2022-08-15 16:33:28,2022-08-15 16:33:29,0.955s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/Button_Make Appointment""))",Chrome 104.0.5112.81,,,2022-08-15 16:33:29,2022-08-15 16:33:30,1.004s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/Input_Username""), username)",Chrome 104.0.5112.81,,,2022-08-15 16:33:30,2022-08-15 16:33:31,0.840s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/Input_Password""), password)",Chrome 104.0.5112.81,,,2022-08-15 16:33:31,2022-08-15 16:33:32,0.810s,PASSED
+takeScreenshot(),Chrome 104.0.5112.81,,,2022-08-15 16:33:32,2022-08-15 16:33:32,0.379s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/button_Login""))",Chrome 104.0.5112.81,,,2022-08-15 16:33:32,2022-08-15 16:33:33,1.084s,PASSED
+takeScreenshot(),Chrome 104.0.5112.81,,,2022-08-15 16:33:33,2022-08-15 16:33:33,0.419s,PASSED
+"selectOptionByValue(findTestObject(""Page_CURA Healthcare Service/Select_Healtcare Center""), HealthCareCenter, false)",Chrome 104.0.5112.81,,,2022-08-15 16:33:33,2022-08-15 16:33:34,0.792s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/Input_Date""), DateAppointment)",Chrome 104.0.5112.81,,,2022-08-15 16:33:34,2022-08-15 16:33:35,0.975s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/Text_Comment""), Comment)",Chrome 104.0.5112.81,,,2022-08-15 16:33:35,2022-08-15 16:33:36,0.792s,PASSED
+takeScreenshot(),Chrome 104.0.5112.81,,,2022-08-15 16:33:36,2022-08-15 16:33:36,0.389s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 104.0.5112.81,,,2022-08-15 16:33:36,2022-08-15 16:33:37,0.863s,PASSED
+"verifyElementVisible(findTestObject(""Page_CURA Healthcare Service/Label_Appointment has been booked""))",Chrome 104.0.5112.81,,,2022-08-15 16:33:37,2022-08-15 16:33:38,0.462s,PASSED
+takeScreenshot(),Chrome 104.0.5112.81,,,2022-08-15 16:33:38,2022-08-15 16:33:38,0.383s,PASSED
+closeBrowser(),Chrome 104.0.5112.81,,,2022-08-15 16:33:38,2022-08-15 16:33:39,1.267s,PASSED

@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Cura Appointment" time="405.766" tests="4" failures="2" errors="0">
+   <testsuite name="Cura Appointment" tests="4" failures="2" errors="0" time="405.766" skipped="0" timestamp="2022-08-18 16:18:51" hostname="095770 - ndm-nindy.bfi.co.id" id="Test Suites/Cura Appointment/Cura Appointment">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842"/>
+         <property name="logFiles" value="C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814338658.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814342217.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814343641.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814350022.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814353438.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814355120.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814363853.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814367509.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814369154.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814404590.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814404770.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814410309.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814413689.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814415275.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814450684.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814450869.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814456443.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814459874.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814461494.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814496883.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814497057.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814502680.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814505994.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814507594.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814543039.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814543247.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814556815.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814560158.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814561788.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814597375.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814597591.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814603071.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814606512.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814607913.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814643592.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814643810.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814649546.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814652937.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814654546.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814689982.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814690122.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814696003.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814699404.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814701014.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814736403.png, C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814736592.png"/>
+         <property name="hostName" value="095770 - ndm-nindy.bfi.co.id"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.4.1.208"/>
+         <property name="browser" value="Chrome 104.0.5112.81"/>
+         <property name="hostAddress" value="172.16.26.174"/>
+         <property name="sessionId" value="8f88fc528073d91be7f78e5230132ec7"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Cura Appointment/Cura Create Appointment" time="12.765" classname="Test Cases/Cura Appointment/Cura Create Appointment" status="PASSED">
+         <system-out><![CDATA[2022-08-18 16:18:51 - [TEST_CASE][PASSED] - Test Cases/Cura Appointment/Cura Create Appointment: Test Cases/Cura Appointment/Cura Create Appointment
+
+2022-08-18 16:18:52 - [TEST_STEP][PASSED] - println(url): null
+
+2022-08-18 16:18:52 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://katalon-demo-cura.herokuapp.com/'
+
+2022-08-18 16:18:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-18 16:18:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-18 16:18:58 - [MESSAGE][PASSED] - Browser is opened with url: 'https://katalon-demo-cura.herokuapp.com/'
+
+2022-08-18 16:18:58 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-08-18 16:18:58 - [MESSAGE][PASSED] - Current window maximized
+
+2022-08-18 16:18:58 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-08-18 16:18:59 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814338658.png]]
+
+2022-08-18 16:18:59 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/Button_Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/Button_Make Appointment' is clicked on
+
+2022-08-18 16:19:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/Button_Make Appointment' is clicked on
+
+2022-08-18 16:19:00 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/Input_Username"), username): Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Username'
+
+2022-08-18 16:19:01 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Username'
+
+2022-08-18 16:19:01 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/Input_Password"), password): Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Password'
+
+2022-08-18 16:19:01 - [MESSAGE][PASSED] - Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Password'
+
+2022-08-18 16:19:01 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-08-18 16:19:02 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814342217.png]]
+
+2022-08-18 16:19:02 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2022-08-18 16:19:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2022-08-18 16:19:03 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-08-18 16:19:03 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814343641.png]]
+
+2022-08-18 16:19:03 - [TEST_STEP][PASSED] - StatusLogin = verifyElementVisible(findTestObject("Page_CURA Healthcare Service/Select_Healtcare Center")): Object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+
+2022-08-18 16:19:04 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+
+2022-08-18 16:19:04 - [TEST_STEP][PASSED] - tc_type = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>: null
+
+2022-08-18 16:19:04 - [TEST_STEP][PASSED] - if (tc_type == "negative"): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Cura Appointment/Cura Create Appointment" time="11.299" classname="Test Cases/Cura Appointment/Cura Create Appointment" status="PASSED">
+         <system-out><![CDATA[2022-08-18 16:19:04 - [TEST_CASE][PASSED] - Test Cases/Cura Appointment/Cura Create Appointment: Test Cases/Cura Appointment/Cura Create Appointment
+
+2022-08-18 16:19:04 - [TEST_STEP][PASSED] - println(url): null
+
+2022-08-18 16:19:04 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://katalon-demo-cura.herokuapp.com/'
+
+2022-08-18 16:19:04 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-08-18 16:19:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-18 16:19:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-18 16:19:09 - [MESSAGE][PASSED] - Browser is opened with url: 'https://katalon-demo-cura.herokuapp.com/'
+
+2022-08-18 16:19:09 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-08-18 16:19:09 - [MESSAGE][PASSED] - Current window maximized
+
+2022-08-18 16:19:09 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-08-18 16:19:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814350022.png]]
+
+2022-08-18 16:19:10 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/Button_Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/Button_Make Appointment' is clicked on
+
+2022-08-18 16:19:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/Button_Make Appointment' is clicked on
+
+2022-08-18 16:19:11 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/Input_Username"), username): Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Username'
+
+2022-08-18 16:19:12 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Username'
+
+2022-08-18 16:19:12 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/Input_Password"), password): Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Password'
+
+2022-08-18 16:19:13 - [MESSAGE][PASSED] - Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Password'
+
+2022-08-18 16:19:13 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-08-18 16:19:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814353438.png]]
+
+2022-08-18 16:19:13 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2022-08-18 16:19:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2022-08-18 16:19:14 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-08-18 16:19:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814355120.png]]
+
+2022-08-18 16:19:15 - [TEST_STEP][PASSED] - StatusLogin = verifyElementVisible(findTestObject("Page_CURA Healthcare Service/Select_Healtcare Center")): Object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+
+2022-08-18 16:19:15 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+
+2022-08-18 16:19:15 - [TEST_STEP][PASSED] - tc_type = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>: null
+
+2022-08-18 16:19:15 - [TEST_STEP][PASSED] - if (tc_type == "negative"): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Cura Appointment/Cura Create Appointment" time="46.187" classname="Test Cases/Cura Appointment/Cura Create Appointment" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Cura Appointment/Cura Create Appointment FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$4.call(Unknown Source)
+	at Cura Create Appointment.run(Cura Create Appointment:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1660814322605.run(TempTestSuite1660814322605.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2022-08-18 16:21:37 - [TEST_CASE][FAILED] - Test Cases/Cura Appointment/Cura Create Appointment: Test Cases/Cura Appointment/Cura Create Appointment FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$4.call(Unknown Source)
+	at Cura Create Appointment.run(Cura Create Appointment:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1660814322605.run(TempTestSuite1660814322605.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2022-08-18 16:21:37 - [TEST_STEP][PASSED] - println(url): null
+
+2022-08-18 16:21:37 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://katalon-demo-cura.herokuapp.com/'
+
+2022-08-18 16:21:37 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-08-18 16:21:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-18 16:21:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-18 16:21:42 - [MESSAGE][PASSED] - Browser is opened with url: 'https://katalon-demo-cura.herokuapp.com/'
+
+2022-08-18 16:21:42 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-08-18 16:21:42 - [MESSAGE][PASSED] - Current window maximized
+
+2022-08-18 16:21:42 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-08-18 16:21:43 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814502680.png]]
+
+2022-08-18 16:21:43 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/Button_Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/Button_Make Appointment' is clicked on
+
+2022-08-18 16:21:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/Button_Make Appointment' is clicked on
+
+2022-08-18 16:21:44 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/Input_Username"), username): Text 'John Doe Iterasi 3' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Username'
+
+2022-08-18 16:21:44 - [MESSAGE][PASSED] - Text 'John Doe Iterasi 3' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Username'
+
+2022-08-18 16:21:44 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/Input_Password"), password): Text 'ThisIsNotAPasswordas' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Password'
+
+2022-08-18 16:21:45 - [MESSAGE][PASSED] - Text 'ThisIsNotAPasswordas' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Password'
+
+2022-08-18 16:21:45 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-08-18 16:21:46 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814505994.png]]
+
+2022-08-18 16:21:46 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2022-08-18 16:21:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2022-08-18 16:21:47 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-08-18 16:21:47 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814507594.png]]
+
+2022-08-18 16:21:47 - [TEST_STEP][FAILED] - StatusLogin = verifyElementVisible(findTestObject("Page_CURA Healthcare Service/Select_Healtcare Center")): Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$4.call(Unknown Source)
+	at Cura Create Appointment.run(Cura Create Appointment:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1660814322605.run(TempTestSuite1660814322605.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+)
+
+2022-08-18 16:22:18 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //select[@id='combo_facility']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-08-18 16:22:18 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center'. Try using Self-healing.
+
+2022-08-18 16:22:19 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//select[@id='combo_facility']'.
+
+2022-08-18 16:22:19 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//section[@id='appointment']/div/div/form/div/div/select'.
+
+2022-08-18 16:22:19 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/following::select[1]'.
+
+2022-08-18 16:22:20 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[2]/following::select[1]'.
+
+2022-08-18 16:22:20 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/preceding::select[1]'.
+
+2022-08-18 16:22:20 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//select'.
+
+2022-08-18 16:22:20 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//select[@id = 'combo_facility' and @name = 'facility' and (text() = '
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        ' or . = '
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        ')]'.
+
+2022-08-18 16:22:21 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@id = 'combo_facility' and @name = 'facility' and (text() = '
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        ' or . = '
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        ')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-08-18 16:22:23 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: #combo_facility'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-08-18 16:22:23 - [MESSAGE][FAILED] - Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$4.call(Unknown Source)
+	at Cura Create Appointment.run(Cura Create Appointment:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1660814322605.run(TempTestSuite1660814322605.groovy:36)
+)
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814543039.png]]
+
+2022-08-18 16:22:23 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$4.call(Unknown Source)
+	at Cura Create Appointment.run(Cura Create Appointment:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1660814322605.run(TempTestSuite1660814322605.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+)
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814543247.png]]]]></system-out>
+         <system-err><![CDATA[2022-08-18 16:21:37 - [TEST_CASE][FAILED] - Test Cases/Cura Appointment/Cura Create Appointment: Test Cases/Cura Appointment/Cura Create Appointment FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$4.call(Unknown Source)
+	at Cura Create Appointment.run(Cura Create Appointment:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1660814322605.run(TempTestSuite1660814322605.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Cura Appointment/Cura Create Appointment" time="46.463" classname="Test Cases/Cura Appointment/Cura Create Appointment" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Cura Appointment/Cura Create Appointment FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$4.call(Unknown Source)
+	at Cura Create Appointment.run(Cura Create Appointment:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1660814322605.run(TempTestSuite1660814322605.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2022-08-18 16:24:50 - [TEST_CASE][FAILED] - Test Cases/Cura Appointment/Cura Create Appointment: Test Cases/Cura Appointment/Cura Create Appointment FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$4.call(Unknown Source)
+	at Cura Create Appointment.run(Cura Create Appointment:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1660814322605.run(TempTestSuite1660814322605.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2022-08-18 16:24:50 - [TEST_STEP][PASSED] - println(url): null
+
+2022-08-18 16:24:50 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://katalon-demo-cura.herokuapp.com/'
+
+2022-08-18 16:24:50 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-08-18 16:24:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-18 16:24:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-18 16:24:55 - [MESSAGE][PASSED] - Browser is opened with url: 'https://katalon-demo-cura.herokuapp.com/'
+
+2022-08-18 16:24:55 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-08-18 16:24:55 - [MESSAGE][PASSED] - Current window maximized
+
+2022-08-18 16:24:55 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-08-18 16:24:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814696003.png]]
+
+2022-08-18 16:24:56 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/Button_Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/Button_Make Appointment' is clicked on
+
+2022-08-18 16:24:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/Button_Make Appointment' is clicked on
+
+2022-08-18 16:24:57 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/Input_Username"), username): Text 'John Doe Iterasi 4' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Username'
+
+2022-08-18 16:24:58 - [MESSAGE][PASSED] - Text 'John Doe Iterasi 4' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Username'
+
+2022-08-18 16:24:58 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/Input_Password"), password): Text 'ThisIsNotAPasswordas' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Password'
+
+2022-08-18 16:24:59 - [MESSAGE][PASSED] - Text 'ThisIsNotAPasswordas' is set on object 'Object Repository/Page_CURA Healthcare Service/Input_Password'
+
+2022-08-18 16:24:59 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-08-18 16:24:59 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814699404.png]]
+
+2022-08-18 16:24:59 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2022-08-18 16:25:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2022-08-18 16:25:00 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-08-18 16:25:01 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814701014.png]]
+
+2022-08-18 16:25:01 - [TEST_STEP][FAILED] - StatusLogin = verifyElementVisible(findTestObject("Page_CURA Healthcare Service/Select_Healtcare Center")): Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$4.call(Unknown Source)
+	at Cura Create Appointment.run(Cura Create Appointment:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1660814322605.run(TempTestSuite1660814322605.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+)
+
+2022-08-18 16:25:32 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //select[@id='combo_facility']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-08-18 16:25:32 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center'. Try using Self-healing.
+
+2022-08-18 16:25:32 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//select[@id='combo_facility']'.
+
+2022-08-18 16:25:32 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//section[@id='appointment']/div/div/form/div/div/select'.
+
+2022-08-18 16:25:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/following::select[1]'.
+
+2022-08-18 16:25:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[2]/following::select[1]'.
+
+2022-08-18 16:25:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/preceding::select[1]'.
+
+2022-08-18 16:25:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//select'.
+
+2022-08-18 16:25:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//select[@id = 'combo_facility' and @name = 'facility' and (text() = '
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        ' or . = '
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        ')]'.
+
+2022-08-18 16:25:35 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@id = 'combo_facility' and @name = 'facility' and (text() = '
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        ' or . = '
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        ')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-08-18 16:25:36 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: #combo_facility'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-08-18 16:25:36 - [MESSAGE][FAILED] - Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$4.call(Unknown Source)
+	at Cura Create Appointment.run(Cura Create Appointment:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1660814322605.run(TempTestSuite1660814322605.groovy:36)
+)
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814736403.png]]
+
+2022-08-18 16:25:36 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$4.call(Unknown Source)
+	at Cura Create Appointment.run(Cura Create Appointment:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1660814322605.run(TempTestSuite1660814322605.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+)
+[[ATTACHMENT|C:\\Users\\095770\\git\\CuraTest\\Reports\\20220818_161842\\Cura Appointment\\Cura Appointment\\20220818_161842\\1660814736592.png]]]]></system-out>
+         <system-err><![CDATA[2022-08-18 16:24:50 - [TEST_CASE][FAILED] - Test Cases/Cura Appointment/Cura Create Appointment: Test Cases/Cura Appointment/Cura Create Appointment FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$4.call(Unknown Source)
+	at Cura Create Appointment.run(Cura Create Appointment:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1660814322605.run(TempTestSuite1660814322605.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-08-18 16:18:51 - [TEST_SUITE][FAILED] - Cura Appointment: Test Cases/Cura Appointment/Cura Create Appointment FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$4.call(Unknown Source)
+	at Cura Create Appointment.run(Cura Create Appointment:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1660814322605.run(TempTestSuite1660814322605.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2022-08-18 16:18:51 - [TEST_SUITE][FAILED] - Cura Appointment: Test Cases/Cura Appointment/Cura Create Appointment FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$4.call(Unknown Source)
+	at Cura Create Appointment.run(Cura Create Appointment:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1660814322605.run(TempTestSuite1660814322605.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/Select_Healtcare Center' located by '//select[@id='combo_facility']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

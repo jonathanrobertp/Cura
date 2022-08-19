@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "1EF41EB3B916201E628058F058958568",
+  "keywordClasses": [
+    {
+      "name": "DBKeyword",
+      "keywordMethods": [
+        {
+          "name": "CheckIsEmpty",
+          "parameters": [
+            {
+              "name": "connection",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

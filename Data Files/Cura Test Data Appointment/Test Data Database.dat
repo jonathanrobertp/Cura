@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Test Data Database</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>092a246c-87ca-4194-a959-e43fbbfe93b9</dataFileGUID>
+   <dataSourceUrl>jdbc:postgresql://34.101.154.67:5432/small-rent-movie</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName>postgresql-42.2.19</driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>RGlzYW5hLjIwMjIh</password>
+   <properties>
+      <entry>
+         <key>readAsString</key>
+         <value>true</value>
+      </entry>
+   </properties>
+   <query>select app_username as username, app_password as password from app_user</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>postgres</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
