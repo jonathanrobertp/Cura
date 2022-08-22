@@ -21,3 +21,4 @@ WebUI.openBrowser(GlobalVariable.url)
 
 WebUI.click(findTestObject('a_Make Appointment'))
 
+//Update
