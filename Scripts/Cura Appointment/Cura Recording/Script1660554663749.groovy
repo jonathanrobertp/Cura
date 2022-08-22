@@ -35,3 +35,4 @@ WebUI.setText(findTestObject('Object Repository/textarea_Comment_comment'), 'Com
 
 WebUI.click(findTestObject('Object Repository/button_Book Appointment'))
 
+//Test commit
