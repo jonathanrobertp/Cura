@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>d9c1450e-fdf0-4c4f-87c7-2e2ae80b1af6</dataFileGUID>
-   <dataSourceUrl>C:\Users\095770\Documents\Test Data2.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\jonat\Documents\Cura\Data Files\Test Data2.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
