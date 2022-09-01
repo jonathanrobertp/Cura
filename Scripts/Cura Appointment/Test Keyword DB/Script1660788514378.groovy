@@ -34,7 +34,8 @@ if (CheckStatus == false) {
 CustomKeywords.'com.katalon.plugin.keyword.connection.ResultSetKeywords.exportToCSV'(actorData, 'C:\\Users\\095770\\Documents\\TestDB.csv')
 
 
-
+//Dbtype values = mysql. sqlserver, postgresql, oracle
+//Password DB encrypted with base64
 //CustomKeywords.'DBKeyword.CheckIsEmpty'(connection)
 
 'Should not work'
